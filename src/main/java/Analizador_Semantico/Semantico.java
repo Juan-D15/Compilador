@@ -1,6 +1,5 @@
 package Analizador_Semantico;
 
-import Excepciones.Errores;
 import Interfaz.tablaContextos;
 import java.util.ArrayList;
 import java.util.HashMap;
